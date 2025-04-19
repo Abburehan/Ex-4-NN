@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/44362b05-bc93-4e7a-9eee-49ab705745d1)
 <H3>ENTER YOUR NAME : Syed Abbu Rehan</H3>
 <H3>ENTER YOUR REGISTER NO : 212223240165</H3>
 <H3>EX. NO.4</H3>
